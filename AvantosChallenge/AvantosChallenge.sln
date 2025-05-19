@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvantosChallenge", "AvantosChallenge\AvantosChallenge.csproj", "{7309CDCA-0692-4F5D-AB93-D5099F35A14F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7309CDCA-0692-4F5D-AB93-D5099F35A14F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7309CDCA-0692-4F5D-AB93-D5099F35A14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7309CDCA-0692-4F5D-AB93-D5099F35A14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7309CDCA-0692-4F5D-AB93-D5099F35A14F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FAB4C6A-729F-4EF3-99A4-35A6B0C27664}
+	EndGlobalSection
+EndGlobal

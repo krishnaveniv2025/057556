@@ -1,0 +1,6 @@
+@AvantosChallenge_HostAddress = http://localhost:5022
+
+GET {{AvantosChallenge_HostAddress}}/Submit/
+Accept: application/json
+
+###
